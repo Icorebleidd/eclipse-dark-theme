@@ -1,4 +1,4 @@
-# Eclipse Dark Theme [![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Icorebleidd/eclipse-dark-theme/releases/tag/1.0.0)
+# Eclipse Dark Theme [![version](https://img.shields.io/badge/version-1.0.0-blue)](https://github.com/Icorebleidd/eclipse-dark-theme/releases/tag/1.0.0) [![version](https://img.shields.io/visual-studio-marketplace/d/LeonardoTozzo.eclipse-dark-theme?color=34eb52)](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.eclipse-dark-theme)
 
 **v1.0.0** — A port of the default **Eclipse Dark** theme for **Visual Studio**, with a few readability and contrast tweaks.
 
