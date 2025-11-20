@@ -30,8 +30,6 @@ Install directly from the Visual Studio Marketplace:
 
 [Eclipse Dark Theme — Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.eclipse-dark-theme)
 
-Or grab the VSIX from here [1.0.0](https://github.com/Icorebleidd/eclipse-dark-theme/releases/tag/1.0.0)!
-
 ---
 
 ## 🔧 Usage / Customization
