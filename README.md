@@ -1,7 +1,7 @@
 # Eclipse Dark Theme
-[![Visual Studio | Marketplace](https://img.shields.io/badge/Visual%20Studio%20|%20Marketplace-1.0.0-green.svg?colorB=00a84b&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgtJREFUeNq01s9LlEEcx3F3i1gUIkEsWJEiiZR2A0tJXIKuS5cW9GyE%2FgEZCOGC4MEfGB1ClD20Fy%2B6RURQQR4NikBBg06FINopjdZSWNun9%2BA8MD3OjM%2BzPg68Ls%2FM83yY7zwzzxNxHKcq5JbBLeSwcqBXBIboJtac%2FfYdeaQRc8eEHfbD0bdlDOFSJKSSpvAc9YeM%2BxQNIawDz3yEiXZKDYzjesCwdrzAWZ%2Fjy6L2UWTwDbvo97lmbVh3grVFceOgpuMpzljCWpW3MVCgKOl5zdTv4g2uaPquyjI2GMr2GdummorAkqHvBublRnZbUoY1Gu7Jowd7xlVkmlPKlMU6Fj1l%2BIsBWcavlnJNyHJfwG%2FbGqqBk%2BhGSTPY9JA93FfW9zK2TYEnPROOYQ418ixU%2B6s1BSriHgp%2B95F340eUteiVDzS1L0gHCdMFqk28MFuWfvE2LgQ9lkwzFFvlteVtFK0Lr1B3lMA%2FOIeXSPi4%2FzbeoqnSwIvyIE56rn%2FAuOEZ1%2FAOne5OsyZ6toWuzaJWvvIPLON%2Byo9tXLOX%2F9uH04bOkjxnvefogCV0B4%2BxaQvMaTo2cMdyeD88pCplW2ACBeXiezT7%2BDxlK%2FlaqA%2FowxOcDvAfM3SUwEoNBwhcCuOfJotRn2NPhPmbOGaZ2S%2FMIBX2j%2FCEJ2gVI2g5jh9h1yN8RC%2FqvP3%2FBBgAP9DoY%2BErIbwAAAAASUVORK5CYII%3D)](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.eclipse-dark-theme) [![Installs](https://img.shields.io/visual-studio-marketplace/i/LeonardoTozzo.eclipse-dark-theme?color=34eb52)](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.eclipse-dark-theme)
+[![Visual Studio | Marketplace](https://img.shields.io/badge/Visual%20Studio%20|%20Marketplace-1.0.1-green.svg?colorB=00a84b&logo=data%3Aimage%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd%2BUAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAgtJREFUeNq01s9LlEEcx3F3i1gUIkEsWJEiiZR2A0tJXIKuS5cW9GyE%2FgEZCOGC4MEfGB1ClD20Fy%2B6RURQQR4NikBBg06FINopjdZSWNun9%2BA8MD3OjM%2BzPg68Ls%2FM83yY7zwzzxNxHKcq5JbBLeSwcqBXBIboJtac%2FfYdeaQRc8eEHfbD0bdlDOFSJKSSpvAc9YeM%2BxQNIawDz3yEiXZKDYzjesCwdrzAWZ%2Fjy6L2UWTwDbvo97lmbVh3grVFceOgpuMpzljCWpW3MVCgKOl5zdTv4g2uaPquyjI2GMr2GdummorAkqHvBublRnZbUoY1Gu7Jowd7xlVkmlPKlMU6Fj1l%2BIsBWcavlnJNyHJfwG%2FbGqqBk%2BhGSTPY9JA93FfW9zK2TYEnPROOYQ418ixU%2B6s1BSriHgp%2B95F340eUteiVDzS1L0gHCdMFqk28MFuWfvE2LgQ9lkwzFFvlteVtFK0Lr1B3lMA%2FOIeXSPi4%2FzbeoqnSwIvyIE56rn%2FAuOEZ1%2FAOne5OsyZ6toWuzaJWvvIPLON%2Byo9tXLOX%2F9uH04bOkjxnvefogCV0B4%2BxaQvMaTo2cMdyeD88pCplW2ACBeXiezT7%2BDxlK%2FlaqA%2FowxOcDvAfM3SUwEoNBwhcCuOfJotRn2NPhPmbOGaZ2S%2FMIBX2j%2FCEJ2gVI2g5jh9h1yN8RC%2FqvP3%2FBBgAP9DoY%2BErIbwAAAAASUVORK5CYII%3D)](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.eclipse-dark-theme) [![Installs](https://img.shields.io/visual-studio-marketplace/i/LeonardoTozzo.eclipse-dark-theme?color=34eb52)](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.eclipse-dark-theme)
 
-**v1.0.0** — A port of the default **Eclipse Dark** theme for **Visual Studio**, with a few readability and contrast tweaks.
+**v1.0.1** — A port of the default **Eclipse Dark** theme for **Visual Studio**, with a few readability and contrast tweaks.
 
 ---
 
@@ -13,6 +13,8 @@
 ---
 
 ## 📸 Screenshots
+**Using [Enhanced Semantic Colorizer](https://marketplace.visualstudio.com/items?itemName=LeonardoTozzo.EnhancedSemanticColorizer)**
+<img width="770" height="784" alt="499339618-0aca8bc8-1c89-457a-b52c-c68c834c01db" src="https://github.com/user-attachments/assets/29dc3f54-b811-40f6-a0a4-d5f3fabcf532" />
 
 **C#**  
 <img width="848" height="805" alt="Screenshot 2025-09-22 171820" src="https://github.com/user-attachments/assets/ebd3fd45-a3c3-4366-94ed-b8271ee888a0" />
