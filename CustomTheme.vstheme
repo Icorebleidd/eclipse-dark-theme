@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="eclipse-dark-theme" GUID="{08dc2664-c715-4760-9447-40429db44f76}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="eclipse-dark-theme" GUID="{2d568bdb-72db-4538-b108-e7623ed2d67e}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF1F1F1F" />
@@ -2609,6 +2609,70 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="function pointer name">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.field">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.enum-field">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.extension-method">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.static-method">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.normal-method">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.local-function">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.constructor">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.parameter">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.namespace">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.property">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.local">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.type-special">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.event">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.builtin-method">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.declaration-method">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="s.semantic-colorizer.call-method">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
@@ -7615,6 +7679,24 @@
       </Color>
       <Color Name="StatusBarTextFillDisabled">
         <Background Type="CT_RAW" Source="5DFFFFFF" />
+      </Color>
+      <Color Name="EnvironmentBody">
+        <Background Type="CT_RAW" Source="FF282828" />
+      </Color>
+      <Color Name="EnvironmentBodyText">
+        <Background Type="CT_RAW" Source="E4D1D1D1" />
+      </Color>
+      <Color Name="EnvironmentHeader">
+        <Background Type="CT_RAW" Source="FF282828" />
+      </Color>
+      <Color Name="EnvironmentHeaderInactive">
+        <Background Type="CT_RAW" Source="FF282828" />
+      </Color>
+      <Color Name="EnvironmentTab">
+        <Background Type="CT_RAW" Source="FF282828" />
+      </Color>
+      <Color Name="EnvironmentTabInactive">
+        <Background Type="CT_RAW" Source="FF282828" />
       </Color>
     </Category>
     <Category Name="SqlResultsGrid" GUID="{6202ff3e-488e-4ead-92cb-be089659f8d7}">

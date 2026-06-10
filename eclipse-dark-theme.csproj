@@ -59,7 +59,7 @@
     <Reference Include="System" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.VisualStudio.VsixColorCompiler" Version="17.0.31709.430" />
+    <PackageReference Include="Microsoft.VisualStudio.VsixColorCompiler" Version="17.11.35325.10" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="499339618-0aca8bc8-1c89-457a-b52c-c68c834c01db.png">
