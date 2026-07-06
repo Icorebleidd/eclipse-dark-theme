@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="eclipse-dark-theme.c4d7b6dd-b5ba-416f-be0e-16402436c983" Version="1.0.2" Language="en-US" Publisher="Leonardo Tozzo" />
+    <Identity Id="eclipse-dark-theme.c4d7b6dd-b5ba-416f-be0e-16402436c983" Version="1.0.3" Language="en-US" Publisher="Leonardo Tozzo" />
     <DisplayName>Eclipse Dark Theme</DisplayName>
     <Description xml:space="preserve">A porting of the default Eclipse dark theme.
 With some tweaks.</Description>
